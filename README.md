@@ -4,7 +4,7 @@
 <br>
 im in the basement <br>
 got my programmer socks on <br>
-squeezing these thicc thighs <br>
+pls no segfault thanks <br>
 </a>
 </h3>
 <!--
