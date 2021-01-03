@@ -9,10 +9,12 @@ pls no segfault thanks <br>
 </h3>
 <br>
 <br>
-<details closed>
+<details>
 <summary>I did things</summary>
+  <a href="#oof" target="_blank">
   <p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?  bg_color=00000000&username=woefulwolf&count_private=true&show_icons=true&hide=issues&hide_border=true&icon_color=63c5ea&title_color=4c566a&text_color=3b4252"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=woefulwolf&count_private=true&show_icons=true&hide=issues&hide_border=true&icon_color=63c5ea&title_color=4c566a&text_color=3b4252"/>
+    </a>
 </details>
 <!--
 **WoefulWolf/woefulwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
