@@ -2,8 +2,6 @@
 <h3>
 <a href="https://woefulwolf.github.io/">
 <br>
-im in the basement <br>
-got my programmer socks on <br>
 pls no segfault thanks <br>
 </a>
 </h3>
